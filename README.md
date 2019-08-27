@@ -1,2 +1,2 @@
 SENAI redes manhã
-Scripts SENAI manhã
+Scripts SENAI 
